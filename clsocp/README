@@ -1,0 +1,7 @@
+# CLSOCP-Python
+
+This is a python implementation of the CLSOCP R package by jcrudy found at https://github.com/cran/CLSOCP.
+
+To use, place the folder into your working directory. Import as follows:
+
+`from clsocp.socp import socp`
